@@ -1,0 +1,12 @@
+- "Bedrooms": This column represents the number of bedrooms in a housing unit.
+- "Bathrooms": This column represents the number of bathrooms in a housing unit.
+- "Sqft_living": This column represents the total square footage of living space in a housing unit.
+- "Sqft_lot": This column represents the total square footage of the lot on which the housing unit is located.
+- "Floors": This column represents the number of floors in a housing unit.
+- "Waterfront": This column is a binary variable that represents whether the housing unit is located on a waterfront or not.
+- "View": This column represents an index from 1 to 5 that measures how good the view of the property is. A value of 0 implies there is no view.
+- "Condition": This column represents an index from 1 to 5 that measures the overall condition of the housing unit.
+- "Sqft_above": This column represents the square footage of the interior living space that is above ground level.
+- "Sqft_basement": This column represents the square footage of the interior living space that is below ground level.
+- "Yr_built": This column represents the year in which the housing unit was built.
+- "Is_renovated": This column is a binary variable that represents whether the housing unit has been renovated or not.
